@@ -22,7 +22,7 @@
 * `$ pkg update && pkg upgrade`
 * `$ pkg install python`
 * `$ pkg install git`
-* `$ git clone https://github.com/karjok/terkey`
+* `$ git clone https://github.com/axfcap/terkey`
 * `$ cd terkey`
 * `$ python terkey.py`
 
